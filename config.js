@@ -4,7 +4,7 @@ var config = {
     showMarkers: true,
     theme: 'light',
     alignment: 'left',
-    title: 'Especial Elecciones 2020. Agencia Efe',
+    title: 'Especial Elecciones 2020',
     subtitle: 'Un calendario de coberturas detallado',
     byline: 'Efe News',
     footer: '',
@@ -12,7 +12,7 @@ var config = {
     	{
             id: 'washington',
             title: 'Despliegue',
-            image: './path/to/image/source.png',
+            image: '',
             description: 'Nos desplegaremos desde nuestros centros de operaciones en Washington, Nueva York, Florida, California y Texas.',
             location: {
                 center: [-77.020636, 38.886900],
@@ -27,8 +27,8 @@ var config = {
         {
             id: 'iowa',
             title: 'Iowa. 3 de febrero',
-            image: './path/to/image/source.png',
-            description: 'Cubriremos sobre el terreno la primera cita del calendario de primarias ',
+            image: './image/bea.jpg',
+            description: 'Viajaremos a Iowa para entender el impacto de la política comercial de Donald Trump en los agricultores. ¿Influirá la nueva tregua con China en el resultado de los caucus demócrata? En nuestro viaje, también reflexionaremos sobre otros tres grandes temas para los iowanos: el cambio climático, la desindustrialisation y los cambios demográficos del estado.',
             location: {
                 center: [-93.24889, 41.30369],
                 zoom: 7,
@@ -51,7 +51,7 @@ var config = {
         {
             id: 'NH',
             title: 'New Hampshire. 11 de febrero',
-            image: './path/to/image/source.png',
+            image: './image/albert.png',
             description: 'Primaria importante para conocer qué candidato demócrata se consolida',
             location: {
                 center: [-71.44791, 42.88482],
