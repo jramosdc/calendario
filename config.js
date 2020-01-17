@@ -13,7 +13,7 @@ var config = {
             id: 'washington',
             title: 'Despliegue',
             image: './path/to/image/source.png',
-            description: 'Nos desplegaremos desde nuestros centros de operaciones en Washington, Nueva York, California y Texas.',
+            description: 'Nos desplegaremos desde nuestros centros de operaciones en Washington, Nueva York, Florida, California y Texas.',
             location: {
                 center: [-77.020636, 38.886900],
                 zoom: 8,
